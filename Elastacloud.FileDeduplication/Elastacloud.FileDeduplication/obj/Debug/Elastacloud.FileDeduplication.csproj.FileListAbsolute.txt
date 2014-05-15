@@ -1,0 +1,6 @@
+Z:\src\filededupe\Elastacloud.FileDeduplication\Elastacloud.FileDeduplication\bin\Debug\Elastacloud.FileDeduplication.exe.config
+Z:\src\filededupe\Elastacloud.FileDeduplication\Elastacloud.FileDeduplication\bin\Debug\Elastacloud.FileDeduplication.exe
+Z:\src\filededupe\Elastacloud.FileDeduplication\Elastacloud.FileDeduplication\bin\Debug\Elastacloud.FileDeduplication.pdb
+Z:\src\filededupe\Elastacloud.FileDeduplication\Elastacloud.FileDeduplication\obj\Debug\Elastacloud.FileDeduplication.csprojResolveAssemblyReference.cache
+Z:\src\filededupe\Elastacloud.FileDeduplication\Elastacloud.FileDeduplication\obj\Debug\Elastacloud.FileDeduplication.exe
+Z:\src\filededupe\Elastacloud.FileDeduplication\Elastacloud.FileDeduplication\obj\Debug\Elastacloud.FileDeduplication.pdb
