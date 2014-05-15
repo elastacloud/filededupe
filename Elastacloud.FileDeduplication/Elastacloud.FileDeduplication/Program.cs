@@ -35,6 +35,8 @@ namespace Elastacloud.FileDeduplication
 
                 Console.ResetColor();
             }
+
+            Console.ReadLine();
         }
     }
 }
